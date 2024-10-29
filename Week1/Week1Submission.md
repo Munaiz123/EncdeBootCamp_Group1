@@ -1,5 +1,5 @@
 
-@Munzy 3.0, @mitzsuyi, @alienrobot, @codewiz42 
+@Munzy 3.0, @mitzsuyi, @alienrobot, @codewiz42, @SniperJ
 
 https://sepolia.etherscan.io/address/0xe718a71af928cfcba89552699eb69f40da94a43c
 
